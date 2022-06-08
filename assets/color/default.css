@@ -1,0 +1,118 @@
+::-moz-selection {
+  background: #6c1da8;
+}
+::selection {
+  background: #6c1da8;
+}
+
+a {
+  color: #6c1da8;
+}
+
+a:hover {
+  color: #9f4fda;
+}
+
+/* --- button theme --- */
+.btn-theme {
+  background: #6c1da8;
+  *background-color: #6c1da8;
+}
+
+.btn-theme:hover,
+.btn-theme:active,
+.btn-theme.active,
+.btn-theme.disabled,
+.btn-theme[disabled] {
+  background: #9f4fda;
+  *background: #9f4fda;
+}
+
+/* --- slogan --- */
+.slogan h1 span {
+  color: #6c1da8;
+}
+
+.tweet a {
+  color: #6c1da8;
+}
+
+.tweet .tweet_time a:hover i {
+  color: #6c1da8;
+}
+
+/* fontawesome icons */
+.icon-square:hover,
+.icon-rounded:hover,
+.icon-circled:hover {
+  background-color: #6c1da8;
+}
+[class^="icon-"].active,
+[class*=" icon-"].active {
+  background-color: #6c1da8;
+}
+
+.navbar .nav > li > a:hover {
+  color: #6c1da8;
+}
+
+ul.nav li.current {
+  background: #6c1da8;
+}
+.dropdown-menu li > a:hover,
+.dropdown-menu li > a:focus,
+.dropdown-submenu:hover > a {
+  background: #6c1da8;
+}
+
+input:focus,
+textarea:focus {
+  border: 1px solid #6c1da8;
+  border-width: 4px;
+}
+textarea:focus,
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="date"]:focus,
+input[type="month"]:focus,
+input[type="time"]:focus,
+input[type="week"]:focus,
+input[type="number"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="search"]:focus,
+input[type="tel"]:focus,
+input[type="color"]:focus,
+.uneditable-input:focus {
+  border-color: #6c1da8;
+}
+
+ul.contact-list li input.form_input:focus,
+ul.contact-list li textarea.form_textarea:focus {
+  border-color: #6c1da8;
+}
+
+/* tab */
+
+.nav-tabs > a {
+  color: #6c1da8;
+}
+
+/* accordion */
+.accordion-heading a:hover {
+  color: #6c1da8;
+}
+.accordion-heading .active {
+  color: #6c1da8;
+}
+
+.accordion-inner {
+}
+
+/* portfolio */
+
+.thumb-wrapp {
+  background: #6c1da8;
+}
